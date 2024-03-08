@@ -1,0 +1,10 @@
+
+
+/mnt/Teradisk/SOMHIC/ITCI-Cobra/rtl/pll.v
+
+Mar 08 08PM:35:53>: Error in CNX file format.
+
+Error messages are listed in file
+/mnt/Teradisk/SOMHIC/ITCI-Cobra/rtl/pll.cnxerr.
+
+Can't create the custom megafunction variation file(s)
